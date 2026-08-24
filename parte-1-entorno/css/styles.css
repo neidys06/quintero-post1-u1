@@ -45,3 +45,9 @@ footer {
   background-color: #21295C;
   color: #ffffff;
 }
+/* Agregar al final de parte-1-entorno/css/styles.css */
+section:hover {
+  border-left-color: #065A82;
+  background-color: #E8F4F8;
+  transition: background-color 0.3s ease;
+}
