@@ -1,0 +1,47 @@
+/* styles.css — Estilos basicos del laboratorio */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333333;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #065A82;
+  color: #ffffff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.subtitulo {
+  font-size: 1.1rem;
+  color: #E8F4F8;
+  margin-top: 0.5rem;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+section {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-left: 4px solid #1C7293;
+  background-color: #f9f9f9;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #21295C;
+  color: #ffffff;
+}
