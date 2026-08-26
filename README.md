@@ -12,7 +12,7 @@ parte-1-entorno/.
 
 ### Estructura de archivos
 ```
-apellido-post1-u1/
+quintero-post1-u1/
 ├── parte-1-entorno/
 │   ├── index.html
 │   ├── css/
@@ -32,8 +32,8 @@ apellido-post1-u1/
 ### Instalación y ejecución
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/usuario/apellido-post1-u1.git
-   cd apellido-post1-u1
+   git clone https://github.com/neidys06/quintero-post1-u1.git
+   cd quintero-post1-u1
    ```
 2. Abrir la carpeta del repositorio en VS Code (`File → Open Folder`).
 3. Instalar las extensiones necesarias desde el panel de extensiones (`Ctrl+Shift+X`):
@@ -70,9 +70,6 @@ Este laboratorio permitió configurar de principio a fin un entorno de desarroll
 
 ## Evidencias — Parte 1: Entorno de desarrollo
 
-### Estructura de carpetas y control de versiones
-![Estructura de carpetas completa y git log](parte-1-entorno/capturas/estructura_de_carpetas_completa.png)
-
 ### Extensiones de VS Code instaladas
 ![Extensiones instaladas en VS Code](parte-1-entorno/capturas/vscode-extensiones.png)
 
@@ -95,6 +92,9 @@ Este laboratorio permitió configurar de principio a fin un entorno de desarroll
 ![Panel Console y panel Elements con estilos del header](parte-1-entorno/capturas/panel_Console_y_panel_Elements_con_estilos_del_header.png)
 
 ## Evidencias — Parte 2: Análisis de peticiones HTTP
+
+### Estructura de carpetas y control de versiones
+![Estructura de carpetas completa y git log](parte-2-entorno/capturas/estructura_de_carpetas_completa.png)
 
 ### Análisis 1 — GET a example.com (200 OK)
 ![General y Response Headers](parte-2-analisis-http/capturas/General_and_Response_Headers_1_A1.png)
