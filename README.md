@@ -94,7 +94,7 @@ Este laboratorio permitió configurar de principio a fin un entorno de desarroll
 ## Evidencias — Parte 2: Análisis de peticiones HTTP
 
 ### Estructura de carpetas y control de versiones
-![Estructura de carpetas completa y git log](parte-2-entorno/capturas/estructura_de_carpetas_completa.png)
+![Estructura de carpetas completa y git log](parte-2-analisis-http/capturas/estructura_de_carpetas_completa.png)
 
 ### Análisis 1 — GET a example.com (200 OK)
 ![General y Response Headers](parte-2-analisis-http/capturas/General_and_Response_Headers_1_A1.png)
