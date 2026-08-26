@@ -61,6 +61,7 @@ Ambos tests pasaron exitosamente (2/2), confirmando de forma automatizada que el
 ## Diferencias entre GET y POST
 | Aspecto | GET (Análisis 1 y 2) | POST (Análisis 3) |
 |---------|----------------------|--------------------|
+| Método | GET — verbo "seguro" de solo lectura | POST — verbo que modifica el estado del servidor |
 | Propósito | Solicitar/leer un recurso existente | Crear un nuevo recurso en el servidor |
 | Cuerpo de la petición (body) | No lleva body | Lleva un body en JSON con los datos del recurso a crear |
 | Código de estado esperado | 200 OK (éxito) / 404 Not Found (no existe) | 201 Created (recurso creado exitosamente) |
